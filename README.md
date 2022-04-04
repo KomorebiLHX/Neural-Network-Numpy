@@ -4,6 +4,8 @@
 
 21210980049 林恒旭
 
+Github地址：[KomorebiLHX/Neural-Network-Numpy: 使用Numpy构建两层神经网络分类器 (github.com)](https://github.com/KomorebiLHX/Neural-Network-Numpy)
+
 ## 运行方式
 
 ```bash
@@ -49,17 +51,17 @@ best_config = {'accuracy': 96.77, 'layer': [784, 40, 10], 'learning_rate': 0.02,
 2. 采用折线图对loss和accuracy可视化，采用直方图对网络每层参数进行可视化
 3. 结果保存在figs文件夹中
 
-![loss](figs\loss.png)
+![loss](figs/loss.png)
 
-![accuracy](figs\accuracy.png)
+![accuracy](figs/accuracy.png)
 
-![layer1_biases](figs\layer1_biases.png)
-
-![layer1_weights](figs\layer1_weights.png)
+![layer1_biases](figs/layer1_biases.png)
 
 ![layer1_weights](figs/layer1_weights.png)
 
-![layer1_weights](figs\layer1_weights.png)
+![layer2_biases](figs/layer2_biases.png)
+
+![layer2_weights](figs/layer2_weights.png)
 
 
 
